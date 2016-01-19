@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/include_header" >
+    </include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:background="@color/common_bg_grey"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="1dp" >
+
+        <Button
+            android:id="@+id/search_is_online"
+            android:layout_width="70dp"
+            android:layout_height="33dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginStart="2dp"
+            android:background="@drawable/bg_common_view_circle_left_corner"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/aty_car_list_search_isonline_all"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/search_car_no"
+            android:layout_width="0dp"
+            android:layout_height="33dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginStart="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_common_view_circle_right_corner"
+            android:gravity="center"
+            android:hint="@string/aty_car_list_search_carname_hint"
+            android:imeOptions="actionSearch"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="2dp"
+            android:layout_marginRight="2dp"
+            android:src="@drawable/ic_search_grey_36dp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/cars"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:background="@color/common_bg_grey"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="1dp" >
+
+        <Button
+            android:id="@+id/display_on_map"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:background="@drawable/bg_common_view_clicked_grey_circle_corner"
+            android:padding="10dp"
+            android:text="@string/aty_car_list_back_with_condition" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\ui\activity\AtyMain$8$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$id$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$style$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\ui\activity\AtyMain$8$1$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$drawable$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$layout$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$color$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$string$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$dimen$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\ui\activity\AtyMain$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\taichang\R$override.class
+F:\AndroidStation\TC201511112\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

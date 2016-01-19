@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="common_divider_bg">#DEDEDE</color>
+    <color name="common_bg_white">#FFFFFFFF</color>
+    <color name="common_bg_grey">#FFF5F3F4</color>
+    <color name="common_view_clicked_grey">#FFF5F3F4</color>
+    <color name="common_view_normal_white">#FFFFFFFF</color>
+    <color name="button_text_black">#000</color>
+
+</resources>

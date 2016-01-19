@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_text_black">#000</color>
+    <color name="common_bg_grey">#FFF5F3F4</color>
+    <color name="common_bg_white">#FFFFFFFF</color>
+    <color name="common_divider_bg">#DEDEDE</color>
+    <color name="common_view_clicked_grey">#FFF5F3F4</color>
+    <color name="common_view_normal_white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">精定位GIS</string>
+    <string name="aty_car_list_back_with_condition">在地图上显示全部结果</string>
+    <string name="aty_car_list_search_carname_hint">输入车号进行查询</string>
+    <string name="aty_car_list_search_isonline_all">全部</string>
+    <string name="aty_car_list_search_isonline_offline">离线</string>
+    <string name="aty_car_list_search_isonline_online">在线</string>
+    <string name="aty_car_list_title">车辆列表</string>
+    <string name="aty_car_main_search_hint">输入地名查询</string>
+    <string name="aty_collection_title">我的收藏</string>
+    <string name="aty_login_error_password">密码错误</string>
+    <string name="aty_login_error_username">用户名不存在，请先在PC端注册</string>
+    <string name="aty_login_login">登\t\t录</string>
+    <string name="aty_login_progress_dialog">正在为您登录，请稍后……</string>
+    <string name="aty_login_savePassword">保存密码</string>
+    <string name="aty_login_success">登录成功！</string>
+    <string name="aty_settings_title">程序设置</string>
+    <string name="aty_start_copyright">©2015\t太昌电子</string>
+    <string name="aty_warning_title">报警日志</string>
+    <string name="common_error_data_error">对不起，服务器数据异常，请稍后再试</string>
+    <string name="common_error_net">对不起，我们似乎没法连接上服务器，请您检查网络连接后再继续操作</string>
+    <string name="common_password">密码</string>
+    <string name="common_password_hint">请输入您的密码</string>
+    <string name="common_username">用户名</string>
+    <string name="common_username_hint">请输入您的用户名</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

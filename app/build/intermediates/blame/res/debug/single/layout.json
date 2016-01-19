@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_warning.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_warning.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_left_menu.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\fragment_left_menu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_settings.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_settings.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_warning.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\lv_warning.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_area.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\lv_area.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_car_track.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_car_track.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_collection.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\lv_collection.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_login.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_login.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_car_search.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_car_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_collection.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_collection.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\include_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_is_online.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\pop_is_online.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_start.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_start.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aty_main.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\aty_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_date_time.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\pop_date_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidStation\\TC201511112\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_car.xml",
+        "source": "F:\\AndroidStation\\TC201511112\\app\\src\\main\\res\\layout\\lv_car.xml"
+    }
+]

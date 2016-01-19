@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:2:1-68:12
+	xmlns:android
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:10:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:13:5-85
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:13:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:19:22-70
+uses-sdk
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-v4:22.2.1] F:\AndroidStation\TC201511112\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:25:5-66:19
+MERGED from [com.android.support:support-v4:22.2.1] F:\AndroidStation\TC201511112\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:30:9-40
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:26:9-39
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:31:9-33:64
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:32:13-52
+	android:value
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:33:13-61
+activity#com.taichang.ui.activity.AtyMain_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:35:9-36:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:35:19-55
+service#com.baidu.location.f
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:38:9-42:19
+	android:process
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:41:13-38
+	android:enabled
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:40:13-35
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:39:13-48
+activity#com.taichang.ui.activity.AtyLogin_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:44:19-56
+activity#com.taichang.ui.activity.ActivityMain_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:46:19-60
+activity#com.taichang.ui.activity.AtyCarSearch_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:49:19-60
+activity#com.taichang.ui.activity.AtyCarTrack_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:51:19-59
+activity#com.taichang.ui.activity.AtyWarning_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:53:19-58
+activity#com.taichang.ui.activity.AtyCollection_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:55:19-61
+activity#com.taichang.ui.activity.AtySettings_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:57:19-59
+activity#com.taichang.ui.activity.AtyStart_
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:59:9-65:20
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:59:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:60:13-64:29
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:61:27-74
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from F:\AndroidStation\TC201511112\app\src\main\AndroidManifest.xml:63:25-66

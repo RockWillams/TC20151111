@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/include_header" >
+    </include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:background="@color/common_bg_grey"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="1dp" >
+
+        <Button
+            android:id="@+id/search_time"
+            android:layout_width="70dp"
+            android:layout_height="33dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginStart="2dp"
+            android:background="@drawable/bg_common_view_circle_left_corner"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="时间"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/search_car_no"
+            android:layout_width="0dp"
+            android:layout_height="33dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginStart="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_common_view_circle_right_corner"
+            android:gravity="center"
+            android:hint="@string/aty_car_list_search_carname_hint"
+            android:imeOptions="actionSearch"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="2dp"
+            android:layout_marginRight="2dp"
+            android:src="@drawable/ic_search_white_36dp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/warnings"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStation\TC201511112\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d6057e90fdd25572cb7650e5a6fc8be51c5f5bb">
+        <dex dex="F:\AndroidStation\TC201511112\app\build\intermediates\pre-dexed\debug\classes_987ed08b2de5d0b0b9d8d1c444d1cd08af867f6f.jar" />
+    </item>
+
+</items>
